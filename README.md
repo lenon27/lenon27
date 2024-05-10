@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao perfil do Lenon m Lacerda 😁
 
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+
  <div>
    <a href="https://github.com/lenon27">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lenon27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
