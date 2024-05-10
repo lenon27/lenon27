@@ -1,8 +1,6 @@
 ## Bem-vindo(a) ao perfil do Lenon m Lacerda 😁
 
-<div>
- <a href="" target=_blank><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
-</div>
+
 
  <div>
    <a href="https://github.com/lenon27">
